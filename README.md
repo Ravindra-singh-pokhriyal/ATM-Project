@@ -324,21 +324,6 @@ Feel free to open an issue for any questions or concerns regarding the project's
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file (or create one in the root directory if missing) for complete details.
-
-### What this means:
-
-- ✅ **Commercial use:** You can use this project commercially
-- ✅ **Modification:** You can modify the code
-- ✅ **Distribution:** You can distribute this software
-- ✅ **Private use:** You can use this project privately
-- ⚠️ **Liability:** The software is provided "as is", without warranty of any kind, express or implied. The author holds no liability for its use.
-- ⚠️ **Trademark:** This license does not grant trademark rights.
-
----
-
 <p align="center">Made by Ravindra Singh Pokhriyal</p>
 <p align="center">
   <a href="#-table-of-contents">⬆️ Back to Top</a>
